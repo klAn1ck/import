@@ -11,7 +11,7 @@ $main_categories_id = array(
     'plotters' => 3,
     'RC' => 4,
     'inks' => 5
-);
+);//fdsfsd
 $allow_formats = array('A0', 'A1', 'A2');
 
 $file_data_lines = file('import.csv');
