@@ -7,4 +7,5 @@ while($temp = mysqli_fetch_assoc($te)){
     echo $temp['text']."\r\n";
 }
 
+//my comment
 
